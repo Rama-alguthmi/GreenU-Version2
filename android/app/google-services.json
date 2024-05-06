@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314334735042",
+    "project_id": "chiblane-b30f2",
+    "storage_bucket": "chiblane-b30f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314334735042:android:eb823437471a01cf60295b",
+        "android_client_info": {
+          "package_name": "com.example.chiblane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArYp-Yj7rgMV7lrt_QE7ZE-zGIUkrSLu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
